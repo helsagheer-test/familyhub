@@ -2,3 +2,5 @@ Milk
 Eggs
 Rice
 Checken
+Orange Juice
+Coffee
